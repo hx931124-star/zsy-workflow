@@ -1,0 +1,26 @@
+# Workspace config files — not for zsy-workflow repo
+/AGENTS.md
+/HEARTBEAT.md
+/IDENTITY.md
+/MEMORY.md
+/SOUL.md
+/TOOLS.md
+/USER.md
+/skills-lock.json
+
+# Daily notes & memory
+/memory/
+/daily-brief/
+/daily-summary/
+/temp/
+/scripts/
+/.scratch/
+/state/
+
+# System
+/.openclaw/
+/.clawhub/
+/skills/.skills_store_lock.json
+
+# Images
+/changsha-weather-*.png
